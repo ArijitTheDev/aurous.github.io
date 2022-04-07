@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome to AUROUS BOT'S PAGE
 
-You can use the [editor on GitHub](https://github.com/ArijitTheDev/aurous.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+You can use this link to invite the bot: [Invite from here](https://discord.com/api/oauth2/authorize?client_id=918541443390390273&permissions=8&scope=bot)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
